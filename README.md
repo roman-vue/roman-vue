@@ -2,6 +2,7 @@
 
 - 💻 Back-End developer at Lya-electronic
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roman-vue)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roman-vue&show_icons=true&theme=radical)
+
 
 
